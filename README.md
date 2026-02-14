@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 ## Hi there 👋 I'm Ojashwani
 
 🎓 BTech 1st Year Student  
@@ -8,7 +5,7 @@
 🌱 Currently learning programming and problem-solving  
 🚀 Exploring projects and hackathons  
 
-### 🔧 Skills (Learning)
+### 🛠️ Skills (Learning)
 - C / C++
 - Python (Basics)
 - Git & GitHub
@@ -21,5 +18,3 @@
 - GitHub: @ojashwanii
 
 ✨ Fun fact: I’m just getting started, but I’m serious about learning.
-
--->
