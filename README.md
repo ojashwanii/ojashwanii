@@ -1,16 +1,25 @@
 ## Hi there 👋
 
 <!--
-**ojashwanii/ojashwanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Ojashwani
 
-Here are some ideas to get you started:
+🎓 BTech 1st Year Student  
+💡 Interested in AI, Technology & Sustainability  
+🌱 Currently learning programming and problem-solving  
+🚀 Exploring projects and hackathons  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🔧 Skills (Learning)
+- C / C++
+- Python (Basics)
+- Git & GitHub
+
+### 🤝 Looking for
+- Beginner-friendly projects
+- Hackathons & team collaborations
+
+### 📫 Reach me
+- GitHub: @ojashwanii
+
+✨ Fun fact: I’m just getting started, but I’m serious about learning.
+
 -->
